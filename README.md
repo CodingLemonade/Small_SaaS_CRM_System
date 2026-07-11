@@ -1,2 +1,2 @@
 # Small_SaaS_CRM_System
-Designed and implemented a complete B2B SaaS CRM system in HubSpot to support lead management, sales pipeline visibility, customer onboarding, and revenue reporting.
+Designed and implemented a complete B2B SaaS CRM system in HubSpot to support lead management, sales pipeline visibility, customer onboarding, and revenue reporting. The project included custom lifecycle stages, contact and company management, deal pipeline configuration, workflow automations, lead assignment, follow-up tasks, reporting dashboards, and CRM data governance standards. The system was built to demonstrate how a scalable CRM structure can improve data quality, sales efficiency, forecasting accuracy, and alignment across marketing, sales, and customer success teams.
