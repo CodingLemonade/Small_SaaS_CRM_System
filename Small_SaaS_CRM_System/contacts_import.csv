@@ -1,0 +1,21 @@
+First Name,Last Name,Email,Phone,Job Title,Company Name,Company Domain Name,Lifecycle Stage,Lead Status,Country/Region,City,State/Region
+Maya,Thompson,maya.thompson@novaspark.com,+14155550101,VP of Sales,NovaSpark Software,novaspark.com,Opportunity,Open,United States,San Francisco,California
+Ethan,Price,ethan.price@novaspark.com,+14155550102,RevOps Manager,NovaSpark Software,novaspark.com,SQL,In Progress,United States,San Francisco,California
+Lena,Rivera,lena.rivera@bluepeak.com,+13125550103,Director of Analytics,BluePeak Analytics,bluepeak.com,MQL,New,United States,Chicago,Illinois
+Marcus,Chen,marcus.chen@bluepeak.com,+13125550104,Operations Analyst,BluePeak Analytics,bluepeak.com,Lead,Attempted to Contact,United States,Chicago,Illinois
+Priya,Shah,priya.shah@cloudnest.com,+16465550105,Head of IT,CloudNest Systems,cloudnest.com,SQL,In Progress,United States,New York,New York
+Noah,Bennett,noah.bennett@cloudnest.com,+16465550106,Cloud Architect,CloudNest Systems,cloudnest.com,MQL,Open,United States,New York,New York
+Olivia,Grant,olivia.grant@greengrid.com,+15125550107,Chief Operations Officer,GreenGrid Energy,greengrid.com,Customer,Connected,United States,Austin,Texas
+Daniel,Kim,daniel.kim@greengrid.com,+15125550108,Procurement Manager,GreenGrid Energy,greengrid.com,Customer,Connected,United States,Austin,Texas
+Ava,Collins,ava.collins@brightpath.com,+12065550109,Marketing Director,BrightPath Learning,brightpath.com,Lead,Attempted to Contact,United States,Seattle,Washington
+Sophia,Nguyen,sophia.nguyen@brightpath.com,+12065550111,Sales Manager,BrightPath Learning,brightpath.com,MQL,New,United States,Seattle,Washington
+Caleb,Wright,caleb.wright@urbancrate.com,+12135550112,Logistics Director,UrbanCrate Logistics,urbancrate.com,Opportunity,Open,United States,Los Angeles,California
+Isabella,Martinez,isabella.martinez@urbancrate.com,+12135550113,Customer Success Lead,UrbanCrate Logistics,urbancrate.com,SQL,In Progress,United States,Los Angeles,California
+Ryan,O'Connor,ryan.oconnor@northstarhealth.com,+16175550114,IT Director,NorthStar Health,northstarhealth.com,SQL,In Progress,United States,Boston,Massachusetts
+Grace,Patel,grace.patel@northstarhealth.com,+16175550115,Practice Operations Manager,NorthStar Health,northstarhealth.com,MQL,Open,United States,Boston,Massachusetts
+Chloe,Reed,chloe.reed@silverline.com,+14165550116,Finance Operations Manager,SilverLine Finance,silverline.com,MQL,New,Canada,Toronto,Ontario
+Mateo,Lopez,mateo.lopez@silverline.com,+14165550117,CRM Administrator,SilverLine Finance,silverline.com,Lead,Attempted to Contact,Canada,Toronto,Ontario
+Amelia,Wilson,amelia.wilson@harborpoint.com,,Head of Retail Operations,HarborPoint Retail,harborpoint.com,Lead,New,United Kingdom,London,England
+Henry,Evans,henry.evans@harborpoint.com,,Ecommerce Manager,HarborPoint Retail,harborpoint.com,MQL,Open,United Kingdom,London,England
+Sofia,Becker,sofia.becker@peakforge.com,,Plant Operations Director,PeakForge Manufacturing,peakforge.com,Customer,Connected,Germany,Berlin,Berlin
+Jonas,Weber,jonas.weber@peakforge.com,,Supply Chain Manager,PeakForge Manufacturing,peakforge.com,Customer,Connected,Germany,Berlin,Berlin
